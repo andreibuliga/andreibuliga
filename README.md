@@ -3,7 +3,7 @@
 
 <h3 align="center">
 All of my projects are available in <a href="https://dev.andreibuliga.ro">my Porfolio<br> </a>
-How to reach me: **contact@andreibuliga.ro**
+How to reach me: <a href="mailto:contact@andreibuliga.ro"><strong>contact@andreibuliga.ro</strong>
 </h3>
 
 <h3 align="center">Languages and Tools:</h3>
