@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrei</h1>
-<h3 align="center">As an Angular frontend developer with over 2 years of professional experience, I specialize in creating robust, visually-appealing web applications. My skills span HTML, CSS, JavaScript, Angular, ReactJs, NextJs, Bootstrap, Material UI, Tailwind CSS and SASS.
+<h3 align="center">As an full-stack developer with over 2 years of professional experience, I specialize in creating robust, visually-appealing web applications.
 <br>
 With 3 years of freelancing and a Bachelor's degree in Business Computer Science, I've worked on diverse projects across various domains. I'm continuously learning, for the past year expanding my skills to include NodeJs, ExpressJs, RESTful APIs, and MongoDB. 
 <br>
