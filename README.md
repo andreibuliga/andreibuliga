@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Andrei</h1>
 <h3 align="center">An experienced Angular frontend developer, I specialize in building visually appealing and robust web applications. My expertise spans a wide range of technologies including HTML, CSS, JavaScript, Angular, ReactJs, NextJs, and more. With a Bachelor's degree in Business Computer Science and 3 years of freelancing, I've worked on diverse projects across various domains. I'm committed to continuous learning and have recently expanded my skills to include NodeJs, ExpressJs, RESTful APIs, and MongoDB. I also have experience with Webflow and Wordpress.</h3>
 
-- All of my projects are available at [https://dev.andreibuliga.ro](https://dev.andreibuliga.ro)
-- How to reach me: **contact@andreibuliga.ro**
+<h3 align="center">
+All of my projects are available at [https://dev.andreibuliga.ro](https://dev.andreibuliga.ro)
+How to reach me: **contact@andreibuliga.ro**
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
