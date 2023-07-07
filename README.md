@@ -4,12 +4,8 @@
 - All of my projects are available at [https://dev.andreibuliga.ro](https://dev.andreibuliga.ro)
 - How to reach me: **contact@andreibuliga.ro**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
     <td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
@@ -60,6 +56,6 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreibuliga&show_icons=true&locale=en&layout=compact" alt="andreibuliga" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreibuliga&show_icons=true&locale=en&layout=compact" alt="andreibuliga" /></p>
 
 <p>&nbsp;</p>
