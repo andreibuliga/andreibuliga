@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Andrei</h1>
 <h3 align="center">An experienced Angular frontend developer, I specialize in building visually appealing and robust web applications. My expertise spans a wide range of technologies including HTML, CSS, JavaScript, Angular, ReactJs, NextJs, and more. With a Bachelor's degree in Business Computer Science and 3 years of freelancing, I've worked on diverse projects across various domains. I'm committed to continuous learning and have recently expanded my skills to include NodeJs, ExpressJs, RESTful APIs, and MongoDB. I also have experience with Webflow and Wordpress.</h3>
 
-- 💼 All of my projects are available at [https://dev.andreibuliga.ro](https://dev.andreibuliga.ro)
-- 📧 How to reach me: **contact@andreibuliga.ro**
+- All of my projects are available at [https://dev.andreibuliga.ro](https://dev.andreibuliga.ro)
+- How to reach me: **contact@andreibuliga.ro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
@@ -60,6 +60,6 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreibuliga&show_icons=true&locale=en&layout=compact" alt="andreibuliga" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreibuliga&show_icons=true&locale=en&layout=compact" alt="andreibuliga" /></p>
 
 <p>&nbsp;</p>
